@@ -1,4 +1,4 @@
-module github.com/Mr-LvGJ/ali-always-spot
+module github.com/dream-huan/ali-always-spot
 
 go 1.21
 
